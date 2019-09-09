@@ -4,3 +4,5 @@ Agrego
 Varias
 Lin eas
 Mas
+
+Acaso la terminal es idiota?
